@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Audib/Documents/PersonProject/MachineLearn",
-      "program": "c:/Users/Audib/Documents/PersonProject/MachineLearn/build/Debug/outDebug",
+      "cwd": "c:/Users/Audib/Documents/PersonProject/ImpLS/ls",
+      "program": "c:/Users/Audib/Documents/PersonProject/ImpLS/ls/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

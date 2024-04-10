@@ -33,6 +33,12 @@ int main(int argc, char const *argv[])
         if (argv[1][0] == '-'){
             int op_a = 0, op_l = 0;
             char *p = argv + 1;
+            while(*p){
+                if (*p == 'a') op_a = 1;
+                else if (*p == 'l') op_l = 1;
+                else {printf("No known option");
+                exit(EXIT_FAILURE);}
+            }
         }
     }
     
