@@ -17,6 +17,6 @@ int main(int argc, char const *argv[])
         {
             printf("%s/n", d->d_name);
         }
-    printf("Done/n")
+    printf("Done/n");
     }
 }
